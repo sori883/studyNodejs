@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "default",
+    "password": "secret",
+    "database": "node",
+    "host": "postgresql",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "default",
+    "password": "secret",
+    "database": "node",
+    "host": "postgresql",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "default",
+    "password": "secret",
+    "database": "node",
+    "host": "postgresql",
+    "dialect": "postgres"
+  }
+}
